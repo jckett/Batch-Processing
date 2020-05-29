@@ -1,6 +1,10 @@
 # Batch Processing for Name Counts
 
-This project uses PySpark to import data in batches and run count queries.  
+Working with large datasets is unevitable these days, and so being able to work with the data in batches can significantly lessen analysis times. This program uses PySpark to import data from a directory and run counts. 
+
+## The Data
+
+All files were provided by the [Bellevue Univeristy DSC650 GitHub repository](https://github.com/bellevue-university/dsc650/tree/master/data/baby-names). 
 
 ## Technologies
 
